@@ -1,4 +1,4 @@
-# 🧠 NLP Lab 7 — Word2Vec & Word Embeddings
+# Word2Vec & Word Embeddings
 
 This project demonstrates **Word2Vec training and analysis**, part of my NLP coursework at Northeastern University.  
 It includes:
